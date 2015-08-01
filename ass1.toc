@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Abstract}{2}
+\contentsline {section}{\numberline {2}Problem Solved}{2}
+\contentsline {section}{\numberline {3}Claimed Contributions}{2}
+\contentsline {section}{\numberline {4}Related work}{2}
+\contentsline {section}{\numberline {5}Methodology}{2}
+\contentsline {section}{\numberline {6}Conclusions}{2}
+\contentsline {section}{\numberline {7}References}{2}
