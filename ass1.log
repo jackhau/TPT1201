@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.7.2)  1 AUG 2015 21:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.7.2)  1 AUG 2015 21:38
 entering extended mode
 **ass1.tex
-("E:\Document\TPT1201 - RESEARCH METHODS IN CS\Lab\ass\ass1.tex"
+(C:\Users\Jack\Documents\GitHub\TPT1201\ass1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -34,40 +34,40 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 LaTeX Warning: Unused global option(s):
     [•].
 
-("E:\Document\TPT1201 - RESEARCH METHODS IN CS\Lab\ass\ass1.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+(C:\Users\Jack\Documents\GitHub\TPT1201\ass1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
-("E:\Document\TPT1201 - RESEARCH METHODS IN CS\Lab\ass\ass1.toc")
+(C:\Users\Jack\Documents\GitHub\TPT1201\ass1.toc)
 \tf@toc=\write3
  [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 10.
  [2]
-("E:\Document\TPT1201 - RESEARCH METHODS IN CS\Lab\ass\ass1.aux") ) 
+(C:\Users\Jack\Documents\GitHub\TPT1201\ass1.aux) ) 
 Here is how much of TeX's memory you used:
  234 strings out of 493922
- 2879 string characters out of 3144903
- 50031 words of memory out of 3000000
+ 2753 string characters out of 3144903
+ 51031 words of memory out of 3000000
  3600 multiletter control sequences out of 15000+200000
  7588 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 23i,6n,17p,136b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,17p,609b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ass1.dvi (2 pages, 1136 bytes).
+Output written on ass1.dvi (2 pages, 1932 bytes).
