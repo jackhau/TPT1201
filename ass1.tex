@@ -1,16 +1,19 @@
 \documentclass[•]{article}
 
+\usepackage{cite}
 \title{NFC Smartphone Based Access Control System Using Information Hiding}
 
 \author{Peng-Loon Teh, Huo-Chong Ling, SoonNyean Cheong}
 \date{}
 
 \begin{document}
+\bibliographystyle{plain}
 \tableofcontents
 \maketitle
 
 \section{Abstract}
-The evolution of science and technology creates a new generation of the access control system, known as digital access control system. A digital access control system allows users to access a premise using an access card. If the access passcode in the access card matches with the access passcode stored in the control system, the door will be unlocked and the user can gain access to his premise. Therefore, in this paper, their proposed system utilizes near field communication smartphone and stego-photo to overcome the disadvantage exhibited by the access control system using the access card.
+\hspace{1cm}In the paper, they proposed a digital access control system by using near field communication (NFC) smartphone to unlock the door and replace the access card. They mentioned that if the system uses the access card or physical key as key to access the premise, then everyone who has the key can gain the access which is an insecure system. So, they provided an information hiding technique to overcome the problem by using stego-photo. System will generate the passcode and embedded it into the user’s photo which will become the stego-photo. The NFC reader will receive the stego-photo sent by smartphone, if the passcode inside the stego-photo is not match with the passcode inside the database, a light emitting diode (LED) will be turned on to alert the unauthorized users. ~\cite{Katzenbeisser2000}
+
 \section{Problem Solved}
 If the access card access password matches the password stored in the access control system, the door will unlock, and the user has access to his premises.
 Once the access card is lost, anyone who is in the possession of the card could easily enter the premise illegally.
@@ -23,6 +26,6 @@ Once the access card is lost, anyone who is in the possession of the card could 
 
 \section{Conclusions}
 
-\section{References}
 
+\bibliography{MyBib}{}
 \end{document}

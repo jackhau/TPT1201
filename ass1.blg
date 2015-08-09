@@ -1,5 +1,7 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: ass1.aux
-I found no \citation commands---while reading file ass1.aux
-I found no \bibdata command---while reading file ass1.aux
-I found no \bibstyle command---while reading file ass1.aux
-(There were 3 error messages)
+The style file: plain.bst
+Database file #1: MyBib.bib
+Warning--to sort, need author or key in Katzenbeisser2000
+Warning--empty author in Katzenbeisser2000
+Warning--empty journal in Katzenbeisser2000
+(There were 3 warnings)
