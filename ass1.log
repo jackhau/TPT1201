@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.7.2)  8 AUG 2015 20:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=latex 2015.7.2)  11 AUG 2015 13:35
 entering extended mode
 **ass1.tex
-(C:\Users\Jack\Documents\GitHub\TPT1201\TPT1201\ass1.tex
+(C:\Users\Lenox\Documents\GitHub\TPT1201\ass1.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,7 +30,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -39,7 +39,7 @@ Package: cite 2015/02/27  v 5.5
 LaTeX Warning: Unused global option(s):
     [â€¢].
 
-(C:\Users\Jack\Documents\GitHub\TPT1201\TPT1201\ass1.aux)
+(C:\Users\Lenox\Documents\GitHub\TPT1201\ass1.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -53,7 +53,7 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 
-(C:\Users\Jack\Documents\GitHub\TPT1201\TPT1201\ass1.toc)
+(C:\Users\Lenox\Documents\GitHub\TPT1201\ass1.toc)
 \tf@toc=\write3
  [1
 
@@ -67,16 +67,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-
-(C:\Users\Jack\Documents\GitHub\TPT1201\TPT1201\ass1.bbl [2]) [3]
-(C:\Users\Jack\Documents\GitHub\TPT1201\TPT1201\ass1.aux) ) 
+ [2]
+(C:\Users\Lenox\Documents\GitHub\TPT1201\ass1.bbl) [3]
+(C:\Users\Lenox\Documents\GitHub\TPT1201\ass1.aux) ) 
 Here is how much of TeX's memory you used:
  330 strings out of 493922
- 4142 string characters out of 3144903
- 52031 words of memory out of 3000000
+ 4023 string characters out of 3147306
+ 53031 words of memory out of 3000000
  3689 multiletter control sequences out of 15000+200000
  7588 words of font info for 27 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 23i,6n,17p,847b,207s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 23i,6n,17p,847b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on ass1.dvi (3 pages, 2712 bytes).
+Output written on ass1.dvi (3 pages, 4136 bytes).
