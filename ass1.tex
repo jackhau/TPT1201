@@ -1,7 +1,10 @@
-\documentclass[•]{article}
+\documentclass[a4paper, 12pt]{article}
 
+\usepackage{graphicx}
+\usepackage{times}
 \usepackage{cite}
 \usepackage{enumerate}
+
 \title{NFC Smartphone Based Access Control System Using Information Hiding}
 
 \author{Peng-Loon Teh, Huo-Chong Ling, SoonNyean Cheong}
@@ -9,6 +12,40 @@
 
 
 \begin{document}
+
+\begin{center}
+\includegraphics[width=8cm]{mmulogo.eps}\\
+\hfill \break
+\textbf{
+\LARGE TPT1201 \break\break
+RESEARCH METHODS IN CS \break\break
+}
+\textit{Trimester 1, Session 2015 / 2016} \break\break
+
+\textbf{
+\Large
+Lecturer: Dr. Poo Kuan Hoong \break\break
+Topic:  \break\break
+BY  \break\break
+}  \break
+
+\begin{tabular}{|l|l|l|}
+\hline
+No. & Student ID & Student Name\\
+\hline
+1 & 1121115798 & TAN JACK HAU\\
+\hline
+2 & 1122701188 & LOW JIA MING\\
+\hline
+\end{tabular}
+\\
+
+GROUP SECTION: \textless\textless CM01 \textgreater\textgreater
+
+\end{center}
+
+\newpage
+
 \bibliographystyle{plain}
 \tableofcontents
 \maketitle
@@ -36,16 +73,50 @@ In this system, as users can uses physical part to get access the promise. For e
 \end{enumerate}
 
 \section{Methodology}
-\hspace{1cm}The user need to register an account first through the security web-page. The user submits an access passcode and uploads a photo to the web-page to generate the stego photo.~\cite{Zhao4224148} The system will translate the passcode to American Standard Code for Information Interchange(ASCII) number and use the Least Significant Bit(LSB) insertion~\cite{Katzenbeisser2000} to embed the translated passcode into the photo. The stego photo is generated and user can download it to the smartphone by scanning the Quick Response(QR) code.
-The user tags his smartphone on the NFC reader~\cite{Madlmayr4529403} of the door. A link will sent to the smartphone to initial a program to let user to send the stego photo to the reader.
-If the passcode decoded from stego photo is same as the passcode inside the server, the door will be unlocked. However, it is not matched, a light emitting diode(LED) will be turned on to alert the unauthorized user.
+\hspace{1cm}The user need to register an account first through the security web-page. The user submits an access passcode and uploads a photo to the web-page to generate the stego-photo.~\cite{Zhao4224148} The system will translate the passcode to American Standard Code for Information Interchange(ASCII) number and use the Least Significant Bit(LSB) insertion~\cite{Katzenbeisser2000} to embed the translated passcode into the photo. The stego-photo is generated and user can download it to the smartphone by scanning the Quick Response(QR) code.
+\hfill
+
+The user tags his smartphone on the NFC reader~\cite{Madlmayr4529403} of the door. A link will sent to the smartphone to initial a program to let user to send the stego-photo to the reader.
+If the passcode decoded from stego-photo is same as the passcode inside the server, the door will be unlocked. However, it is not matched, a light emitting diode(LED) will be turned on to alert the unauthorized user.
 
 \section{Conclusions}
-\hspace{1cm}In this paper, they used NFC and hiding information technique, stego photo to enhance the access control system to solve the problem of unauthorized people can access to the premise with the access card. The enhanced system is more secure, but it is more inconvenient. 
+\hspace{1cm}In this paper, they used NFC and hiding information technique, stego-photo to enhance the access control system to solve the problem of unauthorized people can access to the premise with the access card. The enhanced system is more secure, but it is more inconvenient. 
 
 \section{What did you learn ? And  possible extention/Future work}
-\hspace{1cm}For further work, we can implement the near field communication (NFC) and stego photo to replace the touch n go card. This will improve the security level of the touch n go card and it will become an evolution of the e-wallet.
+\hspace{1cm}For further work, we can implement the near field communication (NFC) and stego-photo to replace the touch n go card. This will improve the security level of the touch n go card and it will become an evolution of the e-wallet.
 
 \newpage
 \bibliography{MyBib}{}
+\newpage
+
+\large{Project Assessment}\\
+
+\begin{tabular}{|l|l|}
+\hline
+Papar Title & \hspace{8cm}  \\
+\hline
+Author(s) &   \\
+\hline
+Abstract/Summary &  \\
+\hline
+Problem Solved &   \\
+\hline
+Claimed Contributions &  \\
+\hline
+Related work &   \\
+\hline
+methodology & \\
+\hline
+Conclusions  &   \\
+\hline
+What did you learn & \\
+(algorithms/experiments & \\
+details)? & \\
+ & \\
+Possible extension/Future & \\
+work & \\
+\hline
+References &\\
+\hline
+\end{tabular}
 \end{document}
