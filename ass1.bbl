@@ -4,4 +4,21 @@
 Information hiding techniques for steganography and digital watermarking.
 \newblock 2000.
 
+\bibitem{Batool6151452}
+A.~Batool and A.~Tariq.
+\newblock Computerized system for fingerprint identification for biometric
+  security.
+\newblock pages 102--106, Dec 2011.
+
+\bibitem{Madlmayr4529403}
+G.~Madlmayr, J.~Langer, C.~Kantner, and J.~Scharinger.
+\newblock Nfc devices: Security and privacy.
+\newblock pages 642--647, March 2008.
+
+\bibitem{Zhao4224148}
+Huanyu Zhao and Xiaolin Li.
+\newblock S3pas: A scalable shoulder-surfing resistant textual-graphical
+  password authentication scheme.
+\newblock 2:467--472, May 2007.
+
 \end{thebibliography}
